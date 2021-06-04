@@ -27,3 +27,7 @@ do{
     console.log(contador)
     contador++
 } while (contador < 20);
+
+for(let contar = 0; contar < 5; contar++){
+    console.log(contar);
+}
